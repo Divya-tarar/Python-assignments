@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Peter Pan",
+    "author": "James matthew ",
+    "isbn": "101",
+    "status": "available"
+  },
+  {
+    "title": "Python Basics",
+    "author": "John doe",
+    "isbn": "102",
+    "status": "available"
+  },
+  {
+    "title": "Data Structure ",
+    "author": "103",
+    "isbn": "",
+    "status": "available"
+  },
+  {
+    "title": "data structure ",
+    "author": "Alice ",
+    "isbn": "103",
+    "status": "available"
+  }
+]
